@@ -5,5 +5,5 @@
 ### 🌟 Projetos Destacados  
 
 ### 📫 Contato  
-- LinkedIn: [linkedin.com/in/enio-dantas](https://www.linkedin.com/in/enio-dantas)  
+- LinkedIn: [linkedin.com/in/enio-dantas](https://www.linkedin.com/in/eniodantas)  
 - E-mail: enio.danttas@gmail.com  
