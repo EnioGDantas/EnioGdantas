@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Enio Gama Dantas! 👋  
 
-<!--
-**EnioGDantas/EnioGdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Habilidades Técnicas  
+- **Cloud Computing**: AWS, Azure, Virtualization.  
+- **Cybersecurity**: Firewalls, VPNs, Threat Analysis.  
+- **Languages**: Python, SQL, Java.  
 
-Here are some ideas to get you started:
+### 🌟 Projetos Destacados  
+- [Sistema de Automação de Redes](https://github.com/EnioGamaDantas/network-automation): Reduziu tempo de resposta em 50%.  
+- [Monitoramento de Ransomware](https://github.com/EnioGamaDantas/ransomware-monitor): Solução para hospitais.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato  
+- LinkedIn: [linkedin.com/in/enio-dantas](https://www.linkedin.com/in/enio-dantas)  
+- E-mail: enio.danttas@gmail.com  
